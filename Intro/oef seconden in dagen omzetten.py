@@ -5,3 +5,5 @@ uren, minuten = divmod(minuten, 60)
 dagen, uren = divmod(uren, 24)
 
 print("d:h:m:s = " , dagen,":",uren,":",minuten,":",seconden)
+
+test
